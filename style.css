@@ -1,0 +1,77 @@
+#nav{
+    background-color: black;
+    text-align: center;
+}
+a{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration: none;
+    margin: 30px;
+    color: white;
+}
+a:hover{
+    color: rgb(33, 121, 236);
+}
+#h1{
+    
+    color: black;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+}
+.service{
+    display: inline-block;
+    background-color: rgb(33, 121, 236);
+    width: 100%;
+    margin: 15px;
+    padding: 12px;
+    border-radius: 20px;
+}
+.image{
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 5px solid black
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.pra{
+    display: block;
+    text-align: center;
+    background-color: white;
+    color:rgb(33, 121, 236) ;
+    padding: 25px;
+    border-radius: 50px;
+    margin: 8px;
+}
+h1{
+    text-align: center;
+    
+}
+#about-us{
+    background-color: rgb(33, 121, 236) ;
+    color: white;
+    padding: 50px;
+    text-align: justify;
+}
+#about{
+    text-align: center;
+}
+
+footer{
+    background: black;
+    text-align: center;
+    color: white;
+    font-size: small;
+    padding: 30px;
+}
